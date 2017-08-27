@@ -49,3 +49,30 @@ node_modules
 
 # .env
 .env
+
+ .codeclimate.yml
+        .dockerignore
+        .editorconfig
+        .env.example
+        .eslintrc
+        .gitattributes
+        .gitignore
+        .istanbul.yml
+        .travis.yml
+        .yarnrc
+        .CONTRIBUTING.md
+        .Dockerfile
+        .LICENSE
+        .README.md
+        .bin/
+        .config/
+        .docker-compose.test.yml
+        .docker-compose.yml
+        .gulpfile.babel.js
+        .index.js
+        .package-lock.json
+        .package.json
+        .public/
+        .server/
+        .yarn.lock
+
